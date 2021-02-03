@@ -1,4 +1,15 @@
 - commits:
+    - subject: Drop CircleCI
+      hash: faf6da5ff1c8ecb21984fa076bc88605eab65b4f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 11.0.5
+  date: 2021-02-03T20:49:14.709Z
+- commits:
     - subject: Update nodejs to 14.15.4 and npm to 6.14.10
       hash: 0a52eb67b211fdc31d73e279e6e871b2e803f485
       body: ''
